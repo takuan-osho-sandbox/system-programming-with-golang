@@ -1,0 +1,1 @@
+buffer, err := ioutil.ReadAll(reader)
